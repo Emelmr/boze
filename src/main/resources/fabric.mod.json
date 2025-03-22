@@ -14,6 +14,7 @@
   },
   "icon": "assets/boze/textures/logo.png",
   "environment": "*",
+  "accessWidener": "boze.accesswidener",
   "entrypoints": {
     "client": [
       "dev.boze.client.Boze"
